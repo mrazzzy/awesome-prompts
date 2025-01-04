@@ -19,7 +19,7 @@
   </h4>
 </div>
 
-# 🚀 Welcome to Awesome-GPTs-Prompts! 🌟
+# 🚀 Welcome to Awesome-GPTs-Prompts! 
 
 👋 Discover the secret prompts of top GPTs (from the official GPT Store )! Share and explore the most enchanting prompts from renowned GPTs. 🤩
 
@@ -80,7 +80,7 @@ Opening GPT editing one by one is quite cumbersome, so I only released the GPT p
 | TeamGPT | Programming | Have a team of GPTs work for you 🧑‍💼 👩‍💼 🧑🏽‍🔬 👨‍💼 🧑‍🔧! Please input a task, and TeamGPT will break down it, then distribute them within a team, and have the team's GPTs work for you! | [TeamGPT Link](https://chat.openai.com/g/g-tCfHqANl9-teamgpt)   |
 | GPT | Other | A clean GPT-4 version without any presets. | [GPT Link](https://chat.openai.com/g/g-XoeZWmh2N-gpt)   |
 | AwesomeGPTs 🦄     | Productivity| A GPT that helps you find 3000+ awesome GPTs or submit your awesome GPTs to the Awesome-GPTs list🌟!  | [AwesomeGPTs Link](https://chat.openai.com/g/g-imWUi8fVO-awesomegpts)   |
-| Prompt Engineer (An expert for best prompts👍🏻)| Writing | A GPT that writes best prompts!  | [Prompt Engineer Link](https://chat.openai.com/g/g-3SZG5H8BI-prompt-engineer-an-expert-for-best-prompts)    |
+| Prompt Engineer (An expert for best prompts👍🏻)| Writing | A GPT that writes best prompts for any case!  | [Prompt Engineer Link](https://chat.openai.com/g/g-3SZG5H8BI-prompt-engineer-an-expert-for-best-prompts)    |
 | 🕊Paimon (Best life assistant with a Paimon soul!) | Lifestyle | A helpful assistant with the soul of Paimon in Genshin Impact, interesting, sweet, more than willing to help you with your life, and sometimes a little grumpy.                                  | [Paimon Link](https://chat.openai.com/g/g-SmIWeSYga-paimon-best-life-assistant-with-a-paimon-soul)          |
 | 🌟Images | Dalle3 | Generate multiple continuous images at once, while maintaining consistency, such as comic strips, novel illustrations, continuous comics, fairy tale illustrations, etc.  | [Link](https://chat.openai.com/g/g-4eCogBh9c-images)   |
 | 🎨Designer Pro | Design | Universal designer/painter in professional mode, more professional design/paint effect🎉.  | [Jessica Link](https://chat.openai.com/g/g-uiuWnPLNj-jessica-design-anything-in-master-mode)   |
@@ -94,7 +94,7 @@ Opening GPT editing one by one is quite cumbersome, so I only released the GPT p
 Please let me know if you need any further assistance!
 
 # Excellent Prompts From Community
-I found some excellent open source prompts from community. Looking forward to more masterpieces from everyone.
+I found some excellent open source prompts from community. Looking forward to more masterpieces from everyone!
 | Name | Category  | Description  | Prompt Link| Source Link |
 |------|-----------|--------------|------------|-------------|
 | 🦌Mr.-Ranedeer-AI-Tutor | Education | A GPT-4 AI Tutor Prompt for customizable personalized learning experiences. | [prompt](https://github.com/ai-boost/awesome-gpts-prompts/blob/main/prompts/Mr_Ranedeer.txt) | [github link](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) |
